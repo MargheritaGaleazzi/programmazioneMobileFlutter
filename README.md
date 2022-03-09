@@ -43,6 +43,26 @@ permettendone un utilizzo efficace;
  - la seconda ci ha permesso di gestire i dati da mostrare e la sezione di registrazione in
 maniera ottimale.
 
+## Sviluppo
+Anche in questo caso andremo ad evidenziare gli aspetti più importanti dello sviluppo della
+nostra applicazione:
+ - Persistenza: per mantenere la persistenza dei dati abbiamo sfruttato la libreria sqlfite.
+Con il database, presente nei services, abbiamo creato le tabelle dove verranno inseriti i
+dati.
+Nelle apposiste classi abbiamo creato le form che consentono all'utente di inserire le informazioni;
+ - Permessi: anche in flutter abbiamo gestito dei permessi tramite la dipendenza im-
+age_picker: alla richiesta dell'utilizzo della fotocamera o della galleria nell'inserimento
+della ricetta, si dovranno prima accettare i permessi per poter inserire un'immagine;
+ - Condivisione: come in kotlin, anche qui abbiamo inserito un bottone che consente la
+condivisione della ricetta, con un invito ad utilizzare la nostra applicazione;
+ - Firebase: Firebase è stato di fondamentale importanza per la gestione delle ricette che
+possono essere scaricate e filtrate all'interno dell'applicazione.
+Anche per flutter l'authentication ci ha consentito di gestire gli utenti autenticati con email
+e password.
+Un elemento fondamentale dell'applicazione kotlin era sicuramente l'utilizzo della Recycler View,
+la quale non è stato possibile utilizzare in flutter, ma che abbiamo deciso di sostituire con delle
+List View che con grande semplicità ci hanno consentito di svolgere lo stesso lavoro.
+
 ## Testing
 Nonostante non fossero richiesti test, abbiamo deciso di inserirne alcuni:
  - test per verificare che la casella nome nella registrazione non può essere vuota
