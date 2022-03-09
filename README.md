@@ -57,7 +57,7 @@ andrà a mostrarci direttamente il contenuto.
 L'utente che usufruisce dell'applicazione risulterà inizialmente non autenticato, e potrà
 quindi far riferimento come per l'applicazione kotlin a tutte le viste eccezion fatta per
 l'aggiunta delle proprie ricette.
-L'utente può autenticarsi nell'apposita schermata, da cui inoltre è possibile eettuare la
+L'utente può autenticarsi nell'apposita schermata, da cui inoltre è possibile effettuare la
 registrazione e la reimpostazione della password.
 Il cambio della vista è stato gestito con un wrapper che a seconda dello stato dell'utente
 mostrerà una diversa schermata;
@@ -92,7 +92,7 @@ dispensa sia all'interno della lista della spesa;
    - user: modello che descrive l'utente autenticato;
    - inserisci ricetta: il modello utilizzato per l'inserimento della ricetta in Tue Ricette.
  - Pages: comprensivo delle viste della nostra applicazione. In particolar modo sono state
-distinte due classi per l'utente autenticato e non, in cui sono state dierenziate le rotte di
+distinte due classi per l'utente autenticato e non, in cui sono state differenziate le rotte di
 accesso a partire dal bottom menu e dal navigation drawer;
  - Services: nei services sono stati inseriti i servizi utili alla gestione dei database di riferimento:
 quello per la gestione dei dati che devono essere mantenuti in locale e quello per la
@@ -101,6 +101,60 @@ gestione dei dati di autenticazione di Firebase;
 dell'applicazione.
 
 ## UI
+Il diagramma dei casi d'uso non verrà riportato nella seguente sezione, in quanto esso risulta
+essere analogo al precedente analizzato in kotlin, verrannò però riportate tutte le schermate con
+le relative funzionalità.
+**Accesso**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/1.jpg)
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/2.jpg)
+
+
+**Cerca Ricette**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/3.jpg)
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/4.jpg)
+
+
+**Dispensa**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/5.jpg)
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/6.jpg)
+
+
+**Tue Ricette**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/7.jpg)
+
+
+**Lista Spesa**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/8.jpg)
+
+
+**Ispirami**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/9.jpg)
+
+
+**Contattaci**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/10.jpg)
+
+
+**Logout**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/11.jpg)
+
+
+**Informazioni**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/12.jpg)
+
+
+**Navigation Drawer**
+
+![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/13.jpg)
 
 ## Sviluppo
 Anche in questo caso andremo ad evidenziare gli aspetti più importanti dello sviluppo della
@@ -138,7 +192,7 @@ Nonostante non fossero richiesti test, abbiamo deciso di inserirne alcuni:
  - test per verificare se ci sono errori nell'inserimento della password nell'autenticazione
 
 ## Note informative per un corretto funzionamento
-In questa sezione vogliamo sottolineare che la nostra applicazione utter sfrutta delle librerie che
+In questa sezione vogliamo sottolineare che la nostra applicazione flutter sfrutta delle librerie che
 non supportano la null safety, e per questo motivo è necessario mandare in run l'applicazione da
 terminale attraverso il comando flutter run -no-sound-null-safety .
 
