@@ -104,6 +104,11 @@ dell'applicazione.
 Il diagramma dei casi d'uso non verrà riportato nella seguente sezione, in quanto esso risulta
 essere analogo al precedente analizzato in kotlin, verrannò però riportate tutte le schermate con
 le relative funzionalità.
+
+**Diagramma dei casi d'uso**
+
+![Diagramma dei casi d'uso](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/0.jpg)
+
 **Accesso**
 
 ![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/1.jpg)
