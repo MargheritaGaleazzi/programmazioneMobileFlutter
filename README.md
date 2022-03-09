@@ -112,6 +112,8 @@ le relative funzionalità.
 **Accesso**
 <p align="center">
 <img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/1.jpg">
+</p>
+<p align="center">
 <img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/2.jpg">
 </p>
 
