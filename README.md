@@ -118,50 +118,67 @@ le relative funzionalità.
 </p>
 
 **Cerca Ricette**
-
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/3.jpg)
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/4.jpg)
-
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/3.jpg">
+</p>
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/4.jpg">
+</p>
 
 **Dispensa**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/5.jpg)
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/6.jpg)
-
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/5.jpg">
+</p>
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/6.jpg">
+</p>
 
 **Tue Ricette**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/7.jpg)
-
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/7.jpg">
+</p>
 
 **Lista Spesa**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/8.jpg)
-
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/8.jpg">
+</p>
 
 **Ispirami**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/9.jpg)
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/9.jpg">
+</p>
 
 
 **Contattaci**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/10.jpg)
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/10.jpg">
+</p>
 
 
 **Logout**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/11.jpg)
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/11.jpg">
+</p>
 
 
 **Informazioni**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/12.jpg)
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/12.jpg">
+</p>
 
 
 **Navigation Drawer**
 
-![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/13.jpg)
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/13.jpg">
+</p>
 
 ## Sviluppo
 Anche in questo caso andremo ad evidenziare gli aspetti più importanti dello sviluppo della
