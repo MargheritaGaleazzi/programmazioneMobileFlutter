@@ -110,10 +110,10 @@ le relative funzionalità.
 ![Diagramma dei casi d'uso](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/0.jpg)
 
 **Accesso**
-
+<p align="center">
 ![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/1.jpg)
 ![](https://github.com/MargheritaGaleazzi/programmazioneMobileFlutter/blob/main/imm_1/2.jpg)
-
+</p>
 
 **Cerca Ricette**
 
